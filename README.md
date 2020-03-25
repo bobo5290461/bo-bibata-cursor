@@ -1,1 +1,1 @@
-# bo-bibata-cursor
+# bo-bspwm
